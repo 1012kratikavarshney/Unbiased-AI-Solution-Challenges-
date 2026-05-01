@@ -46,7 +46,7 @@ FairSight AI is a web platform where any organization can:
 
 | Detect Bias | AI Explanation | Fix & Compare |
 |-------------|----------------|---------------|
-| ![detect](assets/detect.png) | ![explain](assets/explain.png) | ![fix](assets/fix.png) |
+| ![detect](screenshots/Detect Bias.png) | ![explain](screenshots/AI Explanation.png) | ![fix](screenshots/Fix & Compare.png) |
 
 > *Replace with actual screenshots after running the app*
 
