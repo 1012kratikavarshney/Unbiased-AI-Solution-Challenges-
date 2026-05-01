@@ -193,12 +193,6 @@ This project was built for the **Google Solution Challenge 2026**.
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
-
----
-
 ## 🙏 Acknowledgements
 
 - [Google Gemini](https://ai.google.dev) — AI explanation and report generation
@@ -212,7 +206,9 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 **⚖️ FairSight AI — Because fairness should be guaranteed, not optional.**
 
-[🔗 Live Demo](https://fairsight-ai.streamlit.app) • [📹 Demo Video](https://youtube.com/watch?v=your-video) • [📧 Contact](mailto:your@email.com)
+[🔗 Live Demo](https://fairsight-ai.streamlit.app/) • [📹 Demo Video](https://drive.google.com/file/d/1xjXcKF-1B_nXrCvq6t5smu5HlYXlfe_S/view?usp=sharing
+<img width="1236" height="70" alt="image" src="https://github.com/user-attachments/assets/0c7b08d1-3840-4f52-a80f-82b3a85a06e7" />
+)
 
 </div>
 
